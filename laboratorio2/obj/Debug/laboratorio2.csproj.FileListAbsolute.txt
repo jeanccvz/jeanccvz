@@ -1,0 +1,8 @@
+D:\Studio code\laboratorio2\laboratorio2\bin\Debug\laboratorio2.exe.config
+D:\Studio code\laboratorio2\laboratorio2\bin\Debug\laboratorio2.exe
+D:\Studio code\laboratorio2\laboratorio2\bin\Debug\laboratorio2.pdb
+D:\Studio code\laboratorio2\laboratorio2\obj\Debug\laboratorio2.csproj.AssemblyReference.cache
+D:\Studio code\laboratorio2\laboratorio2\obj\Debug\laboratorio2.csproj.SuggestedBindingRedirects.cache
+D:\Studio code\laboratorio2\laboratorio2\obj\Debug\laboratorio2.csproj.CoreCompileInputs.cache
+D:\Studio code\laboratorio2\laboratorio2\obj\Debug\laboratorio2.exe
+D:\Studio code\laboratorio2\laboratorio2\obj\Debug\laboratorio2.pdb
